@@ -11,8 +11,8 @@
     },
     "chat": {
       "url": "http://api.brainshop.ai/get",
-      "brainID": "<brainshop API brain ID here>",
-      "key": "<brainshop API key here>"
+      "brainID": "180234",
+      "key": "5ooXIbPnNn1V6AsO"
     },
     "misc": {
       "channels": [],
